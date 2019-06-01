@@ -1,0 +1,17 @@
+C:\Users\katerinatushinskaya\source\repos\OOP2\OOP2\bin\Debug\OOP2.exe.config
+C:\Users\katerinatushinskaya\source\repos\OOP2\OOP2\bin\Debug\OOP2.exe
+C:\Users\katerinatushinskaya\source\repos\OOP2\OOP2\bin\Debug\OOP2.pdb
+C:\Users\katerinatushinskaya\source\repos\OOP2\OOP2\obj\Debug\OOP2.csprojAssemblyReference.cache
+C:\Users\katerinatushinskaya\source\repos\OOP2\OOP2\obj\Debug\OOP2.Form1.resources
+C:\Users\katerinatushinskaya\source\repos\OOP2\OOP2\obj\Debug\OOP2.Properties.Resources.resources
+C:\Users\katerinatushinskaya\source\repos\OOP2\OOP2\obj\Debug\OOP2.csproj.GenerateResource.cache
+C:\Users\katerinatushinskaya\source\repos\OOP2\OOP2\obj\Debug\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\katerinatushinskaya\source\repos\OOP2\OOP2\obj\Debug\OOP2.exe
+C:\Users\katerinatushinskaya\source\repos\OOP2\OOP2\obj\Debug\OOP2.pdb
+C:\Users\katerinatushinskaya\source\repos\OOP2\OOP2\bin\Debug\AbstractClassLibrary.pdb
+C:\Users\katerinatushinskaya\source\repos\OOP2\OOP2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\katerinatushinskaya\source\repos\OOP2\OOP2\obj\Debug\OOP2.csproj.CopyComplete
+C:\Users\katerinatushinskaya\source\repos\OOP2\OOP2\bin\Debug\GzArchive.dll
+C:\Users\katerinatushinskaya\source\repos\OOP2\OOP2\bin\Debug\ZipInterface.dll
+C:\Users\katerinatushinskaya\source\repos\OOP2\OOP2\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\katerinatushinskaya\source\repos\OOP2\OOP2\bin\Debug\Ionic.Zip.dll
